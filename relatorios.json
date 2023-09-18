@@ -1,0 +1,39 @@
+{
+    "relatorios":[
+        {
+            "agente":"Paulo Silveira",
+            "logradouro":"Rua São Joaquim",
+            "numero": "100",
+            "bairro": "Nossa Senhora Aparecida",
+            "nivel": "1"
+        },
+        {
+            "agente":"Paulo Silveira",
+            "logradouro":"Rua Jarbas Meneses",
+            "numero": "88",
+            "bairro": "Nossa Senhora Aparecida",
+            "nivel": "1"
+        },
+        {
+            "agente":"Claudia Augustina",
+            "logradouro":"Rua Dr.Pacheco",
+            "numero": "25",
+            "bairro": "Aviação",
+            "nivel": "1"
+        },
+        {
+            "agente":"Claudia Augustina",
+            "logradouro":"Rua Dr.Pacheco",
+            "numero": "30",
+            "bairro": "Aviação",
+            "nivel": "2"
+        },
+        {
+            "agente":"Claudia Augustina",
+            "logradouro":"Rua Miguelito",
+            "numero": "52",
+            "bairro": "Conj. Hab. Eldolrado",
+            "nivel": "1"
+        }
+    ]
+}
